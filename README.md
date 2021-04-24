@@ -1,2 +1,2 @@
-# slbn1maros
-Sistem Informasi Akademik SLBN 1 Maros
+# smanjuhbursel
+Sistem Informasi Akademik SMA Negeri 7 Buru Selatan
